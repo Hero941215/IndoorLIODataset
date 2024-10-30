@@ -9,7 +9,7 @@ It contains measurement information from **Robosense RS-16 LiDAR** and **Witmoti
 
 ## DownLoads
 - Download by Baidu Cloud Link: 
-  - [LIO_dataset]([https://pan.baidu.com/s/1rLhtqZxygmGe1oWZSwN9cg](https://pan.baidu.com/s/1p-U778khO3hAn_5rboipeg )) (ROS)  (q4ln)
+  - [LIO_dataset](https://pan.baidu.com/s/1p-U778khO3hAn_5rboipeg) (ROS)  (q4ln)
 
 
 ## Acknowledgements
