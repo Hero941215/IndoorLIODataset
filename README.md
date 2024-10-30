@@ -4,8 +4,8 @@
 It contains measurement information from **Robosense RS-16 LiDAR** and **Witmotion HWT905-232 IMU**. It also provides an external calibration file (using [LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init)) and the ground truth trajectory obtained from the motion capture system (**Optitrack Motive**).
 
 ## ROS Topic
-     - 3D LiDAR point clouds: ```/rs_points```
-     - IMU: ```/imu```
+     - 3D LiDAR point clouds: ```/rslidar_points```
+     - IMU:                   ```/imu```
 
 ## Objective of the Dataset
 
