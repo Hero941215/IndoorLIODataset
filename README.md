@@ -3,23 +3,9 @@
 
 It contains measurement information from **Robosense RS-16 LiDAR** and **Witmotion HWT905-232 IMU**. It also provides an external calibration file (using [LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init)) and the ground truth trajectory obtained from the motion capture system (**Optitrack Motive**).
 
-<p align="center">
-  <img width="712pix" src="img/urbanNav.png">
-</p>
-
-**Important Notes**: 
-  - **About access to GNSS RINEX file**: The GNSS measurements is provided as GNSS [RINEX](https://en.wikipedia.org/wiki/RINEX) data. We open-sourced a package, the [GraphGNSSLib](https://github.com/weisongwen/GraphGNSSLib), which provide easy access to the GNSS RINEX file and publish the data as customized ROS message. Meanwhile, [GraphGNSSLib](https://github.com/weisongwen/GraphGNSSLib) also provides the capabilities of GNSS positioning and real-time kinematic (RTK) using factor graph optimization (FGO).
-  - **Dataset contribution**: Researches who wish to contribute their dataset as part of the UrbanNav dataset, please feel free to contact us via email <darren-f.huang@connect.polyu.hk>, <welson.wen@polyu.edu.hk>, and <lt.hsu@polyu.edu.hk>. We wish the UrbanNav can be a platform for navigation solution development, validation and sharing.
-  - **Algorithm validation and contribution**: Researches are welcomed to share their navigation solution results, source code to the UrbanNav dataset after a code review process, e,g, code for GNSS/INS integration or LiDAR SLAM, etc. 
-
-## Overview
-- [Objective](#Objective-of-the-Dataset)
-- [Hong Kong Dataset](#hong-kong-dataset)
-- [Tokyo Dataset](#tokyo-dataset)
-- [Getting Started](docs/GETTING_STARTED.md)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
-- [Related Publications](docs/RELATED_PUBLICATIONS.md)
+## ROS Topic
+     - 3D LiDAR point clouds: ```/rs_points```
+     - IMU: ```/imu```
 
 ## Objective of the Dataset
 
