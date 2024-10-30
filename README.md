@@ -7,7 +7,7 @@ It contains measurement information from **Robosense RS-16 LiDAR** and **Witmoti
      - 3D LiDAR point clouds: ```/rslidar_points```
      - IMU:                   ```/imu```
 
-## Objective of the Dataset
+## DownLoads
 
 - Open-sourcing positioning sensor data, including GNSS, INS, LiDAR and cameras collected in Asian urban canyons;
 
