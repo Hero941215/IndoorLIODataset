@@ -9,11 +9,11 @@ It contains measurement information from **Robosense RS-16 LiDAR** and **Witmoti
 
 ## DownLoads
 
-- Open-sourcing positioning sensor data, including GNSS, INS, LiDAR and cameras collected in Asian urban canyons;
+     - Open-sourcing positioning sensor data, including GNSS, INS, LiDAR and cameras collected in Asian urban canyons;
 
-- Raising the awareness of the urgent navigation requirement in highly-urbanized areas, especially in Asian-Pacific regions;
+     - Raising the awareness of the urgent navigation requirement in highly-urbanized areas, especially in Asian-Pacific regions;
 
-- Providing an integrated online platform for data sharing to facilitate the development of navigation solutions of the research community; and 
+     - Providing an integrated online platform for data sharing to facilitate the development of navigation solutions of the research community; and 
 
 - Benchmarking positioning algorithms based on the open-sourcing data.
 
