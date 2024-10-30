@@ -1,7 +1,7 @@
 # IndoorLIODataset
 ### An indoor dynamic scene dataset. 
 
-It contains measurement information from **Robosense RS-16 LiDAR** and **Witmotion HWT905-232 IMU**. It also provides an external calibration file and the ground truth trajectory obtained from the motion capture system (**Optitrack Motive**).
+It contains measurement information from **Robosense RS-16 LiDAR** and **Witmotion HWT905-232 IMU**. It also provides an external calibration file (using [LiDAR_IMU_Init](https://github.com/hku-mars/LiDAR_IMU_Init)) and the ground truth trajectory obtained from the motion capture system (**Optitrack Motive**).
 
 <p align="center">
   <img width="712pix" src="img/urbanNav.png">
